@@ -1,11 +1,16 @@
 _repo: The-gold-hunters-b-A-first-hand-picture-of-life-in-California-mining-camps-in-the-early-fifti__72919
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72919-h/images/cover.jpg
 creator:
   author:
     agent_name: Borthwick, J. D.
     gutenberg_agent_id: '56861'
     url: http://www.gutenberg.org/2009/agents/56861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72919#The-gold-hunters-b-A-first-hand-picture-of-life-in-California-mining-camps-in-the-early-fifti_
 gutenberg_issued: '2024-02-10'
 gutenberg_type: Text
 identifiers:
